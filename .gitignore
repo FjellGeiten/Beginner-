@@ -1,3 +1,6 @@
 *.tmp
 *.log
 dataset/raw_data/
+lib/
+git-filter-repo/
+Beginner-.git/
